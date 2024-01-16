@@ -1,0 +1,14 @@
+import shutil
+import os
+
+# Ruta del archivo que deseas mover
+archivo_a_mover = '../apolo1/apollo11/mover/Adios.txt'
+
+# Ruta de la carpeta destino
+carpeta_destino = '../apolo1/apollo11/destino/'
+
+# Mover el archivo a la carpeta destino
+shutil.move(archivo_a_mover, carpeta_destino)
+
+if not os.path.exists(carpeta_destino):
+    os.makedirs(carpeta_destino)
