@@ -1,7 +1,7 @@
 import os
 
 
-from apollo11.src.prueba import crear_carpeta_devices
+from src.prueba import crear_carpeta_devices
 
 
 def test_crear_carpeta_devices():
