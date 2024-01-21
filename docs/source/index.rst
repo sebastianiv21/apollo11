@@ -1,20 +1,12 @@
-.. apollo11 documentation master file, created by
-   sphinx-quickstart on Thu Dec 14 20:54:39 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. raw:: html
 
-Welcome to apollo11's documentation!
-====================================
+ <div style="text-align:center;">
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+Welcome to Apollo-11 yaaaa
+=====
 
+.. image:: _static/imageapollo.jpg
+   :width: 600
+   :height: 400
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+¡Únete a la vanguardia de la exploración espacial con Apollo 11! Desarrollado por los ingenieros más experimentados y calificados de la :ref:`Nasa <Nasa>`.
