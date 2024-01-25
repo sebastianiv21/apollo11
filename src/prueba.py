@@ -1,6 +1,6 @@
 import os
 from typing import Optional
-from config_log import logger
+from src.config_log import logger
 
 
 def crear_carpeta_devices(ruta: str, nombre: Optional[str] = 'devices') -> str:
