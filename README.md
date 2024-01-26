@@ -1,59 +1,34 @@
-# Proyecto Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales
-
-Ideado por la NASA, tiene como objetivo implementar un sistema de monitoreo basado en la transmisión de archivos, operando a intervalos de 20 segundos. Esta iniciativa busca lograr un control minucioso sobre el estado operativo de cada componente clave, permitiendo la detección temprana de posibles anomalías y la toma de acciones preventivas tanto en el espacio como en la Tierra.
-
-## Misiones a implementar
-
-La implementación de esta tecnología avanzada es esencial para garantizar la seguridad y supervivencia de astronautas y turistas en futuras misiones espaciales. El monitoreo en tiempo real proporcionado por este sistema ofrece una ventaja significativa al permitir una respuesta inmediata ante cualquier situación imprevista, mejorando así la eficiencia y efectividad de las siguientes misiones:
+** Tabla de Contenido**
 
 
-### OrbitOne
+[TOC]
 
-Tiene como visión modernizar la flota de satélites, mejorando el rendimiento y expandiendo las comunicaciones. La actualización de la flota satelital no solo aumenta la eficiencia de cobertura, sino que también mejora la calidad de las transmisiones y la recopilación de datos, beneficiando tanto a la comunidad científica como a las tecnologías de comunicación en la Tierra.
 
-### ColonyMoon
+# 🚀 Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales 
 
-Busca establecer una colonia en la Luna, ofreciendo un laboratorio espacial único para experimentos y estudios. Además de cambiar la narrativa de la exploración espacial, podría servir como base estratégica para futuras misiones más allá de nuestro sistema solar.
+## Descripción del Proyecto
 
-### VacMars
+Desarrollado por la NASA, este sistema implementa un monitoreo basado en la transmisión de archivos con intervalos de 20 segundos, con el objetivo de proporcionar un control detallado sobre el estado operativo de cada componente clave para detectar tempranamente posibles anomalías. Esto facilita la toma de acciones preventivas tanto en el espacio como en la Tierra.
 
-Propone viajes turísticos a Marte, llevando la exploración espacial a nuevas alturas. Este enfoque no solo emociona a los entusiastas del espacio, sino que también puede financiar proyectos científicos más ambiciosos, creando una sinergia entre el interés comercial y la investigación científica.
+## Objetivo principal
 
-### GalaxyTwo
+La adopción de esta tecnología avanzada es crucial para asegurar la seguridad de astronautas y turistas en futuras misiones espaciales. Además, la capacidad de monitoreo en tiempo real proporcionada por este sistema ofrece una ventaja significativa, permitiendo una respuesta inmediata ante cualquier situación imprevista. Esto, a su vez, mejora la eficiencia y la efectividad de los siguientes proyectos espaciales:
 
-La exploración de otras galaxias a través de GalaxyTwo representa un salto gigantesco en nuestro entendimiento del universo. Este proyecto no solo expandiría el conocimiento científico, sino que también inspiraría nuevas formas de colaboración internacional en la búsqueda de respuestas fundamentales sobre el cosmos.
+1. **OrbitOne**: Con su visión de modernizar la flota de satélites, representa un paso crucial hacia la mejora del rendimiento y la expansión de las comunicaciones. La actualización de la flota satelital no solo implica una mayor eficiencia en cobertura, sino también una mejora significativa en la calidad de las transmisiones y la recopilación de datos. Este enfoque modernizador no solo beneficia a la comunidad científica, sino que también tiene implicaciones importantes para el avance de las tecnologías de comunicación en la Tierra.
 
-## Especialistas
+2. **ColonyMoon**: La idea de establecer una colonia en la Luna a través de ColonyMoon es un ambicioso proyecto que podría cambiar para siempre la narrativa de la exploración espacial. Más allá de la emoción y la novedad de establecer una presencia humana en nuestro satélite natural, esta colonia lunar podría servir como un laboratorio espacial para experimentos y estudios que no serían posibles en la Tierra. Además, podría convertirse en una base de operaciones estratégica para futuras misiones espaciales más allá de nuestro sistema solar
 
-### L Ibarra Villamil
+3. **VacMars**: Propone llevar a cabo viajes turísticos a Marte, llevando la exploración espacial a nuevas alturas. Este enfoque no solo proporciona oportunidades emocionantes para los entusiastas del espacio, sino que también puede ser una fuente de financiamiento para proyectos científicos más ambiciosos. Al hacer que Marte sea accesible para los turistas, se abriría una nueva era de colaboración público-privada en la exploración espacial, creando una sinergia entre el interés comercial y la investigación científica.
 
-#### Experiencia Específica:
-Amplia experiencia en diseño, desarrollo e implementación de sistemas de monitoreo en entornos espaciales.
+4. **GalaxyTwo**: La exploración de otras galaxias a través de GalaxyTwo representa un salto gigantesco en nuestro entendimiento del universo. Si bien es un proyecto de gran envergadura y desafíos técnicos significativos, la posibilidad de visitar otras galaxias nos llevaría más allá de los límites actuales de la exploración espacial. Este proyecto no solo se centraría en la expansión del conocimiento científico, sino que también podría inspirar nuevas formas de colaboración internacional en la búsqueda de respuestas a las preguntas fundamentales sobre el origen y la naturaleza del cosmos.
 
-#### Habilidades Técnicas:
-Conocimientos profundos en ingeniería de sistemas, programación y gestión de datos en tiempo real. Experiencia en desarrollo de algoritmos de monitoreo y resolución de anomalías.
+## Equipo de especialistas
 
-#### Competencias:
-Capacidad para diseñar e implementar un sistema unificado de monitoreo basado en la transmisión de archivos. Experiencia en coordinación y comunicación efectiva con equipos multidisciplinarios.
+|  Nombres |  Apellidos | Cargo  |
+| :------------: | :------------: | :------------: |
+| Luis Sebastian  |  Ibarra Villamil | Ingeniero de Sistemas Espaciales  |
+| Leonardo Alfonso  |  Cometa Trujillo | Ingeniero de Software Espacial  |
+| Alvaro Jose  | Polania Alvarez | Ingeniero de Comunicaciones Espaciales  |
 
-### L Cometa Trujillo
-#### Experiencia Específica:
-Historial probado en desarrollo de software para misiones espaciales críticas y sistemas de control en tiempo real.
 
-#### Habilidades Técnicas:
-Dominio de lenguajes de programación espaciales, diseño de algoritmos eficientes y resistentes. Conocimientos en ciberseguridad espacial.
-
-#### Competencias:
-Capacidad para desarrollar el programa "Apollo-11" con enfoque en fiabilidad y seguridad. Experiencia en pruebas exhaustivas y simulaciones.
-
-### A Polania Alvarez
-#### Experiencia Específica:
-Historial exitoso en diseño y gestión de sistemas de comunicación en entornos espaciales.
-
-#### Habilidades Técnicas:
-Conocimientos avanzados en protocolos de comunicación espacial, diseño de redes de transmisión de archivos en el espacio. Familiaridad con sistemas de telemetría.
-
-#### Competencias:
-Capacidad para garantizar una comunicación fiable entre los componentes del sistema "Apollo-11". Experiencia en resolución de problemas de transmisión y recepción de datos en entornos hostiles.
-
-![La nasilla pai!](/_static_/nasa2.jpg "yaa")
+## Instrucciones de uso
