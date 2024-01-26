@@ -3,6 +3,7 @@
 ## <center>Descripción del Proyecto</center>
 
 Desarrollado por la NASA, este sistema implementa un monitoreo basado en la transmisión de archivos con intervalos de 20 segundos, con el objetivo de proporcionar un control detallado sobre el estado operativo de cada componente clave para detectar tempranamente posibles anomalías. Esto facilita la toma de acciones preventivas tanto en el espacio como en la Tierra.
+![The San Juan Mountains are beautiful!](_static/imageapollo.jpg "San Juan Mountains")
 
 ## <center>Objetivo principal</center>
 
