@@ -15,9 +15,9 @@ release = '1.0'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = []
-
 templates_path = ['_templates']
 exclude_patterns = []
+html_static_path = ['_static']
 
 language = 'es'
 
@@ -27,6 +27,7 @@ language = 'es'
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_css_files = ['custom.css']
+
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
