@@ -1,16 +1,10 @@
-** Tabla de Contenido**
+# <center>🚀 Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales </center>
 
-
-[TOC]
-
-
-# 🚀 Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales 
-
-## Descripción del Proyecto
+## <center>Descripción del Proyecto</center>
 
 Desarrollado por la NASA, este sistema implementa un monitoreo basado en la transmisión de archivos con intervalos de 20 segundos, con el objetivo de proporcionar un control detallado sobre el estado operativo de cada componente clave para detectar tempranamente posibles anomalías. Esto facilita la toma de acciones preventivas tanto en el espacio como en la Tierra.
 
-## Objetivo principal
+## <center>Objetivo principal</center>
 
 La adopción de esta tecnología avanzada es crucial para asegurar la seguridad de astronautas y turistas en futuras misiones espaciales. Además, la capacidad de monitoreo en tiempo real proporcionada por este sistema ofrece una ventaja significativa, permitiendo una respuesta inmediata ante cualquier situación imprevista. Esto, a su vez, mejora la eficiencia y la efectividad de los siguientes proyectos espaciales:
 
@@ -22,7 +16,7 @@ La adopción de esta tecnología avanzada es crucial para asegurar la seguridad 
 
 4. **GalaxyTwo**: La exploración de otras galaxias a través de GalaxyTwo representa un salto gigantesco en nuestro entendimiento del universo. Si bien es un proyecto de gran envergadura y desafíos técnicos significativos, la posibilidad de visitar otras galaxias nos llevaría más allá de los límites actuales de la exploración espacial. Este proyecto no solo se centraría en la expansión del conocimiento científico, sino que también podría inspirar nuevas formas de colaboración internacional en la búsqueda de respuestas a las preguntas fundamentales sobre el origen y la naturaleza del cosmos.
 
-## Equipo de especialistas
+## <center>Equipo de especialistas</center>
 
 |  Nombres |  Apellidos | Cargo  |
 | :------------: | :------------: | :------------: |
@@ -31,4 +25,4 @@ La adopción de esta tecnología avanzada es crucial para asegurar la seguridad 
 | Alvaro Jose  | Polania Alvarez | Ingeniero de Comunicaciones Espaciales  |
 
 
-## Instrucciones de uso
+## <center>Instrucciones de uso</center>
