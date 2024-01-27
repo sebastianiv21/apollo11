@@ -60,9 +60,9 @@ Ubicado en la costa este de Florida, Estados Unidos, es reconocido por ser la se
 
 A lo largo de los años, Cabo Cañaveral ha contribuido significativamente al desarrollo de la exploración espacial, siendo crucial en el programa Apolo y en el lanzamiento de misiones del transbordador espacial que facilitaron la construcción y mantenimiento de la Estación Espacial Internacional (EEI). La importancia de este centro no se limita a misiones de la NASA, ya que también ha atraído la atención de empresas privadas como SpaceX, que utiliza las instalaciones para lanzamientos comerciales.
 
-## <p align="center"> 📜 Requerimientos </P>
+## <p align="center"> 📜 Requerimientos del proyecto </P>
 
-### <p align="center"> 1. Python </P>
+### <p align="center"> 1. Instalación de Python </P>
 
 Asegúrese de que su sistema cumpla con los siguientes requisitos antes de comenzar la instalación:
 
@@ -70,21 +70,19 @@ Asegúrese de que su sistema cumpla con los siguientes requisitos antes de comen
 - Espacio suficiente en disco
 - Privilegios de administrador (en caso necesario)
 
-#### Pasos de instalación
-
-### Windows
+#### Windows
 
 1. Abra su navegador web y visite [python.org](https://www.python.org/).
 2. En la sección "Downloads", haga clic en "Python for Windows".
-3. Descargue el instalador ejecutable (`*.exe`) para la última versión estable.
+3. Descargue el instalador ejecutable (`*.exe`).
 
-### macOS
+#### macOS
 
 1. Abra su navegador web y visite [python.org](https://www.python.org/).
 2. En la sección "Downloads", haga clic en "Python for macOS".
-3. Descargue el instalador para la última versión estable.
+3. Descargue el instalador,
 
-### Linux
+#### Linux
 
 La instalación en Linux puede variar según la distribución. A continuación, se muestra un ejemplo para distribuciones basadas en Debian (como Ubuntu):
 
@@ -96,9 +94,9 @@ sudo apt update
 sudo apt install python3
 ```
 
- :memo: **Recomendación:** Elegir la versión de Python que mejor se adapte a tus necesidades. Se recomienda utilizar la versión más reciente, a menos que tengas restricciones específicas.
+ :memo: **Recomendación:** Elegir la versión de Python que mejor se adapte a sus necesidades, sin embargo se recomienda utilizar la versión más reciente.
 
-### Verificación de la instalación
+#### Verificación de la instalación
 
 Abre una nueva terminal y ejecuta los siguientes comandos para verificar que Python se haya instalado correctamente:
 
