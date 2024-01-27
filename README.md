@@ -1,19 +1,15 @@
 #### <p align="center">Tabla de Contenido </p>
 
-[Descripción del Proyecto](#descripción-del-proyecto) 
-
-[Objetivo](#objetivo)
-
-[Equipo de especialistas](#💻-equipo-de-especialistas)
-
-[Centro de operaciones](#🏢-centro-de-operaciones-cabo-cañaveral)
-
-[Requerimientos](#📜-requerimientos-del-proyecto)
-
-[Instrucciones de uso](#📜-instrucciones-de-uso)
+- [Contexto del Proyecto](#🚀-Apollo-11:-Sistema-de-Simulación-y-Monitoreo-para-Misiones-Espaciales) 
+- [Descripción del Proyecto](#descripción-del-proyecto) 
+- [Objetivo](#objetivo)
+- [Equipo de especialistas](#💻-equipo-de-especialistas)
+- [Centro de operaciones](#🏢-centro-de-operaciones-cabo-cañaveral)
+- [Requerimientos](#📜-requerimientos-del-proyecto)
+- [Instrucciones de uso](#📜-instrucciones-de-uso)
 
 
-#  <p align="center"> 🚀 Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales</p>
+#  <p align="center">🚀Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales</p>
 
 
 <p align="center"> <img src="docs/build/html/_static/imageapollo.png" width="300" height="300"> </p>
@@ -24,7 +20,7 @@
 Desarrollado por la NASA, este sistema implementa un monitoreo basado en la transmisión de archivos con intervalos de 20 segundos, con el objetivo de proporcionar un control detallado sobre el estado operativo de cada componente clave para detectar tempranamente posibles anomalías. Esto facilita la toma de acciones preventivas tanto en el espacio como en la Tierra.
 
 
-## <p align="center"> Objetivo </p>
+## <p align="center">Objetivo</p>
 
 La adopción de esta tecnología avanzada es crucial para asegurar la seguridad de astronautas y turistas en futuras misiones espaciales. Además, la capacidad de monitoreo en tiempo real proporcionada por este sistema ofrece una ventaja significativa, permitiendo una respuesta inmediata ante cualquier situación imprevista. Esto, a su vez, mejora la eficiencia y la efectividad de los siguientes proyectos espaciales:
 
@@ -45,7 +41,7 @@ La adopción de esta tecnología avanzada es crucial para asegurar la seguridad 
 
 <p align="center"><img src="docs/build/html/_static/Galaxytwo.png" width="200" height="200"></p>
 
-## <p align="center"> 💻 Equipo de especialistas </p>
+## <p align="center">💻 Equipo de especialistas</p>
 
 |  Nombres |  Apellidos | Cargo  |
 | :------------: | :------------: | :------------: |
@@ -53,14 +49,14 @@ La adopción de esta tecnología avanzada es crucial para asegurar la seguridad 
 | Leonardo Alfonso  |  Cometa Trujillo | Ingeniero de Software Espacial  |
 | Alvaro Jose  | Polania Alvarez | Ingeniero de Comunicaciones Espaciales  |
 
-## <p align="center"> 🏢 Centro de operaciones: Cabo Cañaveral </P>
+## <p align="center">🏢 Centro de operaciones: Cabo Cañaveral</P>
 
 <p align="center"><img src="docs/build/html/_static/Cañaveral.jpg "width="200" height="200"></p>
 
 Ubicado en la costa este de Florida, Estados Unidos, es reconocido por ser la sede del Centro Espacial Kennedy (CEK), una instalación fundamental para la exploración espacial. A lo largo de los años, ha contribuido significativamente al desarrollo de la exploración espacial, siendo crucial en el programa Apolo y en el lanzamiento de misiones del transbordador espacial que facilitaron la construcción y mantenimiento de la Estación Espacial Internacional (EEI). 
 
 
-## <p align="center"> 📜 Requerimientos del proyecto </P>
+## <p align="center">📜 Requerimientos del proyecto</P>
 
 ### <p align="center"> 1. Instalación de Python </P>
 
@@ -78,7 +74,7 @@ Para instalar Python, sigue estos sencillos pasos:
 
 5. Ejecuta el instalador y sigue las instrucciones en pantalla.
 
-:bulb: **Tip:** Puedes verificar la instalación abriendo una terminal y escribiendo:
+:bulb: **Tip:** Puedes verificar la instalación abriendo una terminal y escribiendo el siguiente comando:
 
 ```bash
 `python --version`.
@@ -94,9 +90,9 @@ Para instalar Python, sigue estos sencillos pasos:
 pip --version
 ```
 
-:memo: **Nota:** Si el comando no es reconocido, significa que pip no está instalado y necesitas proceder con la instalación.
+:memo: **Nota:** Si el comando no es reconocido, significa que pip no está instalado y por ello necesitas proceder proceder con los siguientes pasos para su instalación.
 
-2. Dirígete al sitio web oficial de pip en https://pip.pypa.io/en/stable/installation/. Aquí encontrarás la información más actualizada sobre cómo instalar pip en diferentes sistemas operativos.
+2. Dirígete al sitio web oficial de pip en https://pip.pypa.io/en/stable/installation/. Aquí encontrarás la información actualizada sobre cómo instalar pip en diferentes sistemas operativos.
 
 3.  En la página de instalación, encontrarás un enlace o un script de instalación adecuado para tu sistema operativo. Haz clic derecho sobre el enlace y selecciona "Guardar enlace como..." para descargar el script en tu máquina.
 
@@ -131,7 +127,7 @@ Para instalar Poetry, sigue los siguientes pasos:
     ```bash
     poetry --version
     ```
-## <p align="center"> 📜 Instrucciones de uso </P>
+## <p align="center">📜 Instrucciones de uso</P>
 
 1. Para obtener el programa, clona el repositorio desde el siguiente enlace: [https://github.com/sebastianiv21/apollo11](https://github.com/sebastianiv21/apollo11).
 
