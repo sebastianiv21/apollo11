@@ -1,13 +1,13 @@
-#### <p align="center">Tabla de Contenido </p>
+## Tabla de Contenido
 
 - [Contexto del Proyecto](#-apollo-11-sistema-de-simulación-y-monitoreo-para-misiones-espaciales) 
- 1. [Descripción del Proyecto](#descripción-del-proyecto) 
- 2. [Objetivo](#objetivo)
- 3. [Equipo de especialistas](#-equipo-de-especialistas)
- 4. [Centro de operaciones](#-centro-de-operaciones-cabo-cañaveral)
+  1. [Descripción del Proyecto](#descripción-del-proyecto) 
+  2. [Objetivo](#objetivo)
+  3. [Equipo de especialistas](#-equipo-de-especialistas)
+  4. [Centro de operaciones](#-centro-de-operaciones-cabo-cañaveral)
 - [Desarrollo del proyecto](#desarrollo-del-proyecto)
- 1. [Requerimientos](#-requerimientos-del-proyecto)
- 2. [Instrucciones de uso](#-instrucciones-de-uso)
+  1. [Requerimientos](#-requerimientos-del-proyecto)
+  2. [Instrucciones de uso](#-instrucciones-de-uso)
 
 
 # <p align="center">🚀Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales</p>
