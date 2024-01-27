@@ -70,13 +70,15 @@ Para instalar Python, sigue estos sencillos pasos:
 
 2. Haz clic en el botón "Downloads" en el menú de navegación.
 
-3. Selecciona la versión de Python que prefieras. Generalmente, se recomienda la última versión estable.
+3. Selecciona la versión de Python que prefieras. 
+
+:bulb: **Tip** Generalmente, se recomienda la última versión.
 
 4. Descarga el instalador adecuado para tu sistema operativo (Windows, macOS o Linux).
 
 5. Ejecuta el instalador y sigue las instrucciones en pantalla.
 
-6. Puedes verificar la instalación abriendo una terminal y escribiendo:
+:bulb: **Tip** Puedes verificar la instalación abriendo una terminal y escribiendo:
 
 ```bash
 `python --version`.
@@ -84,27 +86,32 @@ Para instalar Python, sigue estos sencillos pasos:
 
 ### <p align="center"> 2. Verificación de Pyp</P>
 
-:warning: **Atención** Asegúrate de tener Python instalado en tu sistema, debido que Pip generalmente se incluye automáticamente con las versiones de Python 3.4 y posteriores. Para verificar si ya tienes pip instalado, abre la terminal y ejecuta el siguiente comando:
+:warning: **Atención** Asegúrate de tener Python instalado en tu sistema, debido que Pip generalmente se incluye automáticamente con las versiones mas actualizadas. 
+
+:bulb: **Tip** Para verificar si ya tienes pip instalado, abre la terminal y ejecuta el siguiente comando:
 
 ```bash
 pip --version
 ```
+
 Si el comando no es reconocido, significa que pip no está instalado y necesitas proceder con la instalación.
 
 1. Dirígete al sitio web oficial de pip en https://pip.pypa.io/en/stable/installation/. Aquí encontrarás la información más actualizada sobre cómo instalar pip en diferentes sistemas operativos.
 2.  En la página de instalación, encontrarás un enlace o un script de instalación adecuado para tu sistema operativo. Haz clic derecho sobre el enlace y selecciona "Guardar enlace como..." para descargar el script en tu máquina.
-3. Para asegurarte de que pip se ha instalado correctamente, ejecuta el siguiente comando en la terminal:
+
+:bulb: **Tip** Para asegurarte de que pip se ha instalado correctamente, ejecuta el siguiente comando en la terminal:
 
 ```bash
 pip --version
 ```
 
 ### <p align="center"> 3. Instalación de GIT</P>
+
 1. Dirígete a la página oficial de Git en https://git-scm.com/ para descargar el instalador correspondiente a tu sistema operativo. En la página principal, encontrarás enlaces de descarga para Windows, macOS y opciones para sistemas basados en Linux.
 
 2. Una vez en la página oficial, sigue las instrucciones específicas de descarga e instalación para tu sistema operativo. Estas instrucciones te guiarán a través del proceso de instalación, asegurándote de obtener la versión más reciente y compatible de Git.
 
-3. Después de completar la instalación, verifica que Git se ha instalado correctamente ejecutando el siguiente comando en tu terminal o símbolo del sistema:
+:bulb: **Tip** Después de completar la instalación, verifica que Git se ha instalado correctamente ejecutando el siguiente comando en tu terminal o símbolo del sistema:
 
 ```bash
 git --version
@@ -118,7 +125,7 @@ Para instalar Poetry, sigue los siguientes pasos:
 
 2. En la sección de instalación, encontrarás instrucciones detalladas para la instalación en diferentes sistemas operativos, para ello sigue las indicaciones específicas para tu entorno.
 
-3. Una vez completada la instalación, puedes verificar que Poetry se haya instalado correctamente ejecutando el siguiente comando en tu terminal:
+:bulb: **Tip** Una vez completada la instalación, puedes verificar que Poetry se haya instalado correctamente ejecutando el siguiente comando en tu terminal:
 
     ```bash
     poetry --version
