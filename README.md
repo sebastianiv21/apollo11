@@ -3,10 +3,10 @@
 [Descripción del Proyecto](#Descripción-del-Proyecto) 
 
 [Objetivo](#Objetivo)
-- [OrbitOne](#OrbitOne)
-- [ColonyMoon](#ColonyMoon)
-- [VacMars](#VacMars)
-- [TwoGalaxy](#TwoGalaxy)
+ - [OrbitOne](#OrbitOne)
+ - [ColonyMoon](#ColonyMoon)
+ - [VacMars](#VacMars)
+ - [TwoGalaxy](#TwoGalaxy)
 [Equipo de especialistas](#Equipo-de-especialistas)
 [Centro de operaciones](#Centro-de-operaciones)
 [Requerimientos](#Requerimientos)
@@ -45,13 +45,13 @@ La adopción de esta tecnología avanzada es crucial para asegurar la seguridad 
 <p align="center"><img src="docs/build/html/_static/Galaxytwo.png" width="200" height="200"></p>
 
 ## <p align="center"> 💻 Equipo de especialistas </p>
-<p align="center">
-|  Nombres |  Apellidos | Cargo  |
-| :------------: | :------------: | :------------: |
-| Luis Sebastian  |  Ibarra Villamil | Ingeniero de Sistemas Espaciales  |
-| Leonardo Alfonso  |  Cometa Trujillo | Ingeniero de Software Espacial  |
-| Alvaro Jose  | Polania Alvarez | Ingeniero de Comunicaciones Espaciales  |
-</p>
+
+|  Nombres | |  Nombres |  Apellidos | Cargo  |
+| :------------: || :------------: | :------------: | :------------: |
+| ![Logo de la empresa](https://docs/build/html/_static/ibarra.png)|| Luis Sebastian  |  Ibarra Villamil | Ingeniero de Sistemas Espaciales  |
+| Leonardo Alfonso  || Leonardo Alfonso  |  Cometa Trujillo | Ingeniero de Software Espacial  |
+| Alvaro Jose  || Alvaro Jose  | Polania Alvarez | Ingeniero de Comunicaciones Espaciales  |
+
 ## <p align="center"> 🏢 Centro de operaciones: Cabo Cañaveral </P>
 
 <p align="center"><img src="docs/build/html/_static/Cañaveral.jpg" width="300" height="300"></p>
