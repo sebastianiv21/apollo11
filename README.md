@@ -3,10 +3,11 @@
 [Descripción del Proyecto](#Descripción-del-Proyecto) 
 
 [Objetivo](#Objetivo)
- - [OrbitOne](#OrbitOne)
- - [ColonyMoon](#ColonyMoon)
- - [VacMars](#VacMars)
- - [TwoGalaxy](#TwoGalaxy)
+- [OrbitOne](#OrbitOne)
+- [ColonyMoon](#ColonyMoon)
+- [VacMars](#VacMars)
+- [TwoGalaxy](#TwoGalaxy)
+
 [Equipo de especialistas](#Equipo-de-especialistas)
 [Centro de operaciones](#Centro-de-operaciones)
 [Requerimientos](#Requerimientos)
@@ -46,9 +47,9 @@ La adopción de esta tecnología avanzada es crucial para asegurar la seguridad 
 
 ## <p align="center"> 💻 Equipo de especialistas </p>
 
-|  Imagen ||  Nombres |  Apellidos | Cargo  |
+|  Nombres |  Apellidos | Cargo  |
 | :------------: | :------------: | :------------: |
-| img src="docs/build/html/_static/ibarra.jpg  |  Ibarra Villamil | Ingeniero de Sistemas Espaciales  |
+| Luis Sebastian  |  Ibarra Villamil | Ingeniero de Sistemas Espaciales  |
 | Leonardo Alfonso  |  Cometa Trujillo | Ingeniero de Software Espacial  |
 | Alvaro Jose  | Polania Alvarez | Ingeniero de Comunicaciones Espaciales  |
 
