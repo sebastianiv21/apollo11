@@ -10,7 +10,7 @@
 - [Instrucciones de uso](#📜-instrucciones-de-uso)
 
 
-#  <p align="center">🚀Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales</p>
+#  🚀<p align="center">Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales</p>
 
 
 <p align="center"> <img src="docs/build/html/_static/imageapollo.png" width="300" height="300"> </p>
@@ -75,7 +75,7 @@ Para instalar Python, sigue estos sencillos pasos:
 
 5. Ejecuta el instalador y sigue las instrucciones en pantalla.
 
-:bulb: **Tip:** Puedes verificar la instalación abriendo una terminal y escribiendo el siguiente comando:
+:info: **Infor:** Puedes verificar la instalación abriendo una terminal y escribiendo el siguiente comando:
 
 ```bash
 `python --version`.
@@ -97,7 +97,7 @@ pip --version
 
 3.  En la página de instalación, encontrarás un enlace o un script de instalación adecuado para tu sistema operativo. Haz clic derecho sobre el enlace y selecciona "Guardar enlace como..." para descargar el script en tu máquina.
 
-:bulb: **Tip:** Para asegurarte de que pip se ha instalado correctamente, ejecuta el siguiente comando en la terminal:
+:info: **Info:** Para asegurarte de que pip se ha instalado correctamente, ejecuta el siguiente comando en la terminal:
 
 ```bash
 pip --version
@@ -109,7 +109,7 @@ pip --version
 
 2. Una vez en la página oficial, sigue las instrucciones específicas de descarga e instalación para tu sistema operativo. Estas instrucciones te guiarán a través del proceso de instalación, asegurándote de obtener la versión más reciente y compatible de Git.
 
-:bulb: **Tip:** Después de completar la instalación, verifica que Git se ha instalado correctamente ejecutando el siguiente comando en tu terminal o símbolo del sistema:
+:info: **Info:** Después de completar la instalación, verifica que Git se ha instalado correctamente ejecutando el siguiente comando en tu terminal o símbolo del sistema:
 
 ```bash
 git --version
@@ -123,7 +123,7 @@ Para instalar Poetry, sigue los siguientes pasos:
 
 2. En la sección de instalación, encontrarás instrucciones detalladas para la instalación en diferentes sistemas operativos, para ello sigue las indicaciones específicas para tu entorno.
 
-:bulb: **Tip:** Una vez completada la instalación, puedes verificar que Poetry se haya instalado correctamente ejecutando el siguiente comando en tu terminal:
+:info: **Info:** Una vez completada la instalación, puedes verificar que Poetry se haya instalado correctamente ejecutando el siguiente comando en tu terminal:
 
     ```bash
     poetry --version
