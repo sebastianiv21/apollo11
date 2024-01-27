@@ -1,15 +1,15 @@
 #  <p align="center"> 🚀 Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales</p>
 
 
- <img src="docs/build/html/_static/imageapollo.png" width="300" height="300">
+<p align="center"> <img src="docs/build/html/_static/imageapollo.png" width="300" height="300"> </p>
 
 
-## Descripción del Proyecto
+## <p align="center"> Descripción del Proyecto </p>
 
 Desarrollado por la NASA, este sistema implementa un monitoreo basado en la transmisión de archivos con intervalos de 20 segundos, con el objetivo de proporcionar un control detallado sobre el estado operativo de cada componente clave para detectar tempranamente posibles anomalías. Esto facilita la toma de acciones preventivas tanto en el espacio como en la Tierra.
 
 
-## Objetivo
+## <p align="center"> Objetivo </p>
 
 La adopción de esta tecnología avanzada es crucial para asegurar la seguridad de astronautas y turistas en futuras misiones espaciales. Además, la capacidad de monitoreo en tiempo real proporcionada por este sistema ofrece una ventaja significativa, permitiendo una respuesta inmediata ante cualquier situación imprevista. Esto, a su vez, mejora la eficiencia y la efectividad de los siguientes proyectos espaciales:
 
@@ -29,7 +29,7 @@ La adopción de esta tecnología avanzada es crucial para asegurar la seguridad 
 
 <img src="docs/build/html/_static/Galaxytwo.png" width="300" height="300">
 
-## 💻 Equipo de especialistas 
+## <p align="center"> 💻 Equipo de especialistas </p>
 
 |  Nombres |  Apellidos | Cargo  |
 | :------------: | :------------: | :------------: |
@@ -37,13 +37,14 @@ La adopción de esta tecnología avanzada es crucial para asegurar la seguridad 
 | Leonardo Alfonso  |  Cometa Trujillo | Ingeniero de Software Espacial  |
 | Alvaro Jose  | Polania Alvarez | Ingeniero de Comunicaciones Espaciales  |
 
-## 🏢 Centro de operaciones
+## <p align="center"> 🏢 Centro de operaciones </P>
+
 ### Cabo Cañaveral 
 
 Es un cabo bajo y arenoso ubicado en el sureste de la Florida (Estados Unidos), donde se encuentra la ciudad del mismo nombre fundada en 1963, perteneciente al condado de Brevard y el principal centro espacial que lleva el nombre de John F. Kennedy, comprende el centro operativo de lanzamiento de la NASA y la primera de las estaciones de control de misiles de la zona atlántica.
 
 Ha desempeñado un papel crucial en el programa espacial de Estados Unidos y su ubicación ofrece una singular ventaja para el lanzamiento de cohetes debido a su proximidad al océano.
 
-## 📜 Requerimientos
+## <p align="center"> 📜 Requerimientos </P>
 
 ## 📜 Instrucciones de uso
