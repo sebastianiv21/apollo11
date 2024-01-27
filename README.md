@@ -10,7 +10,7 @@
 - [Instrucciones de uso](#📜-instrucciones-de-uso)
 
 
-#  🚀<p align="center">Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales</p>
+# <p align="center">🚀Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales</p>
 
 
 <p align="center"> <img src="docs/build/html/_static/imageapollo.png" width="300" height="300"> </p>
@@ -96,7 +96,8 @@ pip --version
 2. Dirígete al sitio web oficial de pip en https://pip.pypa.io/en/stable/installation/. Aquí encontrarás la información actualizada sobre cómo instalar pip en diferentes sistemas operativos.
 
 3.  En la página de instalación, encontrarás un enlace o un script de instalación adecuado para tu sistema operativo. Haz clic derecho sobre el enlace y selecciona "Guardar enlace como..." para descargar el script en tu máquina.
-
+!!! info ""
+    Esta nota va sin título.
 :info: **Info:** Para asegurarte de que pip se ha instalado correctamente, ejecuta el siguiente comando en la terminal:
 
 ```bash
