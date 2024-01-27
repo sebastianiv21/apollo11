@@ -11,7 +11,7 @@
 [Equipo de especialistas](#Equipo-de-especialistas)
 [Centro de operaciones](#Centro-de-operaciones)
 [Requerimientos](#Requerimientos)
-[Instrucciones de uso](#Instrucciones-de-uso)
+[📜 Instrucciones de uso](#📜-Instrucciones-de-uso)
 
 
 #  <p align="center"> 🚀 Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales</p>
@@ -57,7 +57,7 @@ La adopción de esta tecnología avanzada es crucial para asegurar la seguridad 
 
 ### <p align="center"> Cabo Cañaveral  </P>
 
-<p align="center"><img src="docs/build/html/_static/Cañaveral.jpg" width="500" height="300"></p>
+<p align="center"><img src="docs/build/html/_static/Cañaveral.jpg" width="300" height="300"></p>
 
 Es un cabo bajo y arenoso ubicado en el sureste de la Florida (Estados Unidos), donde se encuentra la ciudad del mismo nombre fundada en 1963, perteneciente al condado de Brevard y el principal centro espacial que lleva el nombre de John F. Kennedy, comprende el centro operativo de lanzamiento de la NASA y la primera de las estaciones de control de misiles de la zona atlántica.
 
@@ -65,4 +65,5 @@ Ha desempeñado un papel crucial en el programa espacial de Estados Unidos y su 
 
 ## <p align="center"> 📜 Requerimientos </P>
 
-## 📜 Instrucciones de uso
+## <p align="center"> 📜 Instrucciones de uso </P>
+
