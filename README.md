@@ -1,8 +1,15 @@
-#### Tabla de Contenido
+#### <p align="center">Tabla de Contenido </p>
 
-- [Descripción del Proyecto](#Descripción-del-Proyecto)
-- [Objetivo](#Objetivo)
-- [Equipo de especialistas](#Equipo-de-especialistas)
+[Descripción del Proyecto](#Descripción-del-Proyecto)
+[Objetivo](#Objetivo)
+-[OrbitOne](#OrbitOne)
+-[ColonyMoon](#ColonyMoon)
+-[VacMars](#VacMars)
+-[TwoGalaxy](#TwoGalaxy)
+[Equipo de especialistas](#Equipo-de-especialistas)
+[Centro de operaciones](#Centro-de-operaciones)
+[Requerimientos](#Requerimientos)
+[Instrucciones de uso](#Instrucciones-de-uso)
 
 
 #  <p align="center"> 🚀 Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales</p>
