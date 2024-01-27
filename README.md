@@ -46,11 +46,11 @@ La adopción de esta tecnología avanzada es crucial para asegurar la seguridad 
 
 ## <p align="center"> 💻 Equipo de especialistas </p>
 
-|  Nombres | |  Nombres |  Apellidos | Cargo  |
-| :------------: || :------------: | :------------: | :------------: |
-| ![Logo de la empresa](https://docs/build/html/_static/ibarra.png)|| Luis Sebastian  |  Ibarra Villamil | Ingeniero de Sistemas Espaciales  |
-| Leonardo Alfonso  || Leonardo Alfonso  |  Cometa Trujillo | Ingeniero de Software Espacial  |
-| Alvaro Jose  || Alvaro Jose  | Polania Alvarez | Ingeniero de Comunicaciones Espaciales  |
+|  Imagen ||  Nombres |  Apellidos | Cargo  |
+| :------------: | :------------: | :------------: |
+| img src="docs/build/html/_static/ibarra.jpg  |  Ibarra Villamil | Ingeniero de Sistemas Espaciales  |
+| Leonardo Alfonso  |  Cometa Trujillo | Ingeniero de Software Espacial  |
+| Alvaro Jose  | Polania Alvarez | Ingeniero de Comunicaciones Espaciales  |
 
 ## <p align="center"> 🏢 Centro de operaciones: Cabo Cañaveral </P>
 
