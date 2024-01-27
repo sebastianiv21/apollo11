@@ -1,11 +1,13 @@
 #### <p align="center">Tabla de Contenido </p>
 
-[Descripción del Proyecto](#Descripción-del-Proyecto)
+[Descripción del Proyecto](#Descripción-del-Proyecto) 
+
 [Objetivo](#Objetivo)
--[OrbitOne](#OrbitOne)
--[ColonyMoon](#ColonyMoon)
--[VacMars](#VacMars)
--[TwoGalaxy](#TwoGalaxy)
+- [OrbitOne](#OrbitOne)
+- [ColonyMoon](#ColonyMoon)
+- [VacMars](#VacMars)
+- [TwoGalaxy](#TwoGalaxy)
+
 [Equipo de especialistas](#Equipo-de-especialistas)
 [Centro de operaciones](#Centro-de-operaciones)
 [Requerimientos](#Requerimientos)
