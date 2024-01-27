@@ -19,7 +19,7 @@
 <p align="center"> <img src="docs/build/html/_static/imageapollo.png" width="300" height="300"> </p>
 
 
-## <p align="center"> Descripción del Proyecto </p>
+## <p align="center">Descripción del Proyecto</p>
 
 Desarrollado por la NASA, este sistema implementa un monitoreo basado en la transmisión de archivos con intervalos de 20 segundos, con el objetivo de proporcionar un control detallado sobre el estado operativo de cada componente clave para detectar tempranamente posibles anomalías. Esto facilita la toma de acciones preventivas tanto en el espacio como en la Tierra.
 
@@ -64,91 +64,100 @@ Ubicado en la costa este de Florida, Estados Unidos, es reconocido por ser la se
 
 ### <p align="center"> 1. Instalación de Python </P>
 
-Asegúrese de que su sistema cumpla con los siguientes requisitos antes de comenzar la instalación:
+Para instalar Python, sigue estos sencillos pasos:
 
-- Conexión a Internet
-- Espacio suficiente en disco
-- Privilegios de administrador (en caso necesario)
+1. Dirígete a la página oficial de Python en [https://www.python.org/](https://www.python.org/).
 
-#### Windows
+2. Haz clic en el botón "Downloads" en el menú de navegación.
 
-1. Abra su navegador web y visite [python.org](https://www.python.org/).
-2. En la sección "Downloads", haga clic en "Python for Windows".
-3. Descargue el instalador ejecutable (`*.exe`).
+3. Selecciona la versión de Python que prefieras. Generalmente, se recomienda la última versión estable.
 
-#### macOS
+4. Descarga el instalador adecuado para tu sistema operativo (Windows, macOS o Linux).
 
-1. Abra su navegador web y visite [python.org](https://www.python.org/).
-2. En la sección "Downloads", haga clic en "Python for macOS".
-3. Descargue y ejecute el instalador.
+5. Ejecuta el instalador y sigue las instrucciones en pantalla.
 
-#### Linux
-
-La instalación en Linux puede variar según la distribución. A continuación, se muestra un ejemplo para distribuciones basadas en Debian (como Ubuntu):
-
-1. Abra la terminal.
-2. Ejecute los siguientes comandos:
+6. Puedes verificar la instalación abriendo una terminal y escribiendo:
 
 ```bash
-sudo apt update
-sudo apt install python3
+`python --version`.
 ```
 
- :memo: **Recomendación:** Elegir la versión de Python que mejor se adapte a sus necesidades, sin embargo se recomienda utilizar la versión más reciente.
+### <p align="center"> 2. Verificación de Pyp</P>
 
-### <p align="center"> 2. Instalación de Poetry</P>
-
-#### Requisitos previos
-
-Antes de comenzar con la instalación, asegúrese de tener Python y Pip instalados en su sistema. Puede verificar su instalación ejecutando los siguientes comandos en la terminal:
+::warning: **Atención** Asegúrate de tener Python instalado en tu sistema, debido que Pip generalmente se incluye automáticamente con las versiones de Python 3.4 y posteriores. Para verificar si ya tienes pip instalado, abre la terminal y ejecuta el siguiente comando:
 
 ```bash
-python --version
 pip --version
 ```
+Si el comando no es reconocido, significa que pip no está instalado y necesitas proceder con la instalación.
 
-Si no tiene pip instalado o necesita actualizarlo, puede hacerlo ejecutando el siguiente comando:
-```bash
-python -m ensurepip --default-pip
-```
-##### Paso 1: Instalar Poetry con Pip
-Para instalar Poetry, ejecutaremos el siguiente comando en la terminal:
+1. Dirígete al sitio web oficial de pip en https://pip.pypa.io/en/stable/installation/. Aquí encontrarás la información más actualizada sobre cómo instalar pip en diferentes sistemas operativos.
+2.  En la página de instalación, encontrarás un enlace o un script de instalación adecuado para tu sistema operativo. Haz clic derecho sobre el enlace y selecciona "Guardar enlace como..." para descargar el script en tu máquina.
+3. Para asegurarte de que pip se ha instalado correctamente, ejecuta el siguiente comando en la terminal:
 
 ```bash
-pip install poetry
+pip --version
 ```
-Este comando descargará e instalará Poetry y sus dependencias. Después de la instalación, puede verificar si Poetry se instaló correctamente ejecutando:
+Este comando debería mostrar la versión de pip que acabas de instalar.
+
+### <p align="center"> 3. Instalación de GIT</P>
+1. Dirígete a la página oficial de Git en https://git-scm.com/ para descargar el instalador correspondiente a tu sistema operativo. En la página principal, encontrarás enlaces de descarga para Windows, macOS y opciones para sistemas basados en Linux.
+
+2. Una vez en la página oficial, sigue las instrucciones específicas de descarga e instalación para tu sistema operativo. Estas instrucciones te guiarán a través del proceso de instalación, asegurándote de obtener la versión más reciente y compatible de Git.
+
+3. Después de completar la instalación, verifica que Git se ha instalado correctamente ejecutando el siguiente comando en tu terminal o símbolo del sistema:
 
 ```bash
-poetry --version
+git --version
 ```
-##### Paso 2: Configuración de Poetry
-Poetry utiliza un archivo pyproject.toml para gestionar las dependencias y la configuración del proyecto. Para iniciar un nuevo proyecto Poetry o migrar un proyecto existente, navegue hasta el directorio de su proyecto y ejecute:
-```bash
-poetry init
-```
-:memo: **Recomendación:** Siga las instrucciones en pantalla para configurar su proyecto. Al finalizar, se generará un archivo pyproject.toml con la información de su proyecto.
+Este simple paso te permitirá confirmar que Git está listo para su uso en tu entorno de desarrollo.
 
-##### Paso 3: Crear un entorno virtual
-Poetry gestiona las dependencias dentro de un entorno virtual. Para crear un nuevo entorno virtual para su proyecto, ejecute:
+### <p align="center"> 4. Instalación de Poetry</P>
 
-```bash
-poetry install
-```
-:memo: **Nota:** Este comando leerá las dependencias de su archivo pyproject.toml y creará un entorno virtual en el directorio .venv.
+Para instalar Poetry, sigue los siguientes pasos:
 
-##### Paso 4: Activar el entorno virtual
-Para activar el entorno virtual, utilice el siguiente comando
+1. Dirígete a la página oficial de Poetry en [https://python-poetry.org/](https://python-poetry.org/).
 
-En sistemas basados en Unix (Linux/Mac):
-```bash
-source .venv/bin/activate
-```
-En sistemas Windows:
-```bash
-.venv\Scripts\activate
-```
-:memo: **Nota:** Cuando el entorno virtual esté activado, verá el nombre de su entorno en el indicador de la terminal.
+2. En la sección de instalación, encontrarás instrucciones detalladas para la instalación en diferentes sistemas operativos, para ello sigue las indicaciones específicas para tu entorno.
 
+3. Una vez completada la instalación, puedes verificar que Poetry se haya instalado correctamente ejecutando el siguiente comando en tu terminal:
+
+    ```bash
+    poetry --version
+    ```
 ## <p align="center"> 📜 Instrucciones de uso </P>
 
+1. Para obtener el programa, clona el repositorio desde el siguiente enlace: [https://github.com/sebastianiv21/apollo11](https://github.com/sebastianiv21/apollo11). Si prefieres, también puedes descargar el código directamente.
+2. Accede a la ruta del programa y dirígete al archivo config_app.yaml. Este archivo contiene las configuraciones esenciales del programa, las cuales puedes personalizar según tus necesidades. Aquí tienes un ejemplo del contenido del archivo:
+
+```yaml
+
+# ciclo_simulacion: periodicidad de ejecucion en segundos
+ciclo_simulacion: 20
+
+# cantidad de archivos generados en cada ejecucion
+cantidad_archivos_generados:
+  - minimo: 1
+  - maximo: 100
+
+formato_fecha_archivo: "%d%m%Y%H%M%S"
+
+estado_dispositivo:
+  - excellent
+  - good
+  - warning
+  - faulty
+  - killed
+  - unknown
+```
+Ajusta los valores de las variables según tus requisitos.
+
+3. Abre una consola o terminal y ubícate en la carpeta que contiene la aplicación. Luego, ejecuta el siguiente comando:
+
+```bash
+python app.py ciclo_simulacion periodicidad_ejecucion
+```
+4. Asegúrate de proporcionar los siguientes argumentos:
+
+5. ciclo_simulacion: Cantidad de ciclos requeridos.
+periodicidad_ejecucion: Intervalo de tiempo entre cada ciclo, expresado en segundos.
