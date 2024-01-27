@@ -1,16 +1,16 @@
 #### <p align="center">Tabla de Contenido </p>
 
-[Descripción del Proyecto](#Descripción-del-Proyecto) 
+[Descripción del Proyecto](#Descripción-del-Proyecto-) 
 
-[Objetivo](#Objetivo)
- - [OrbitOne](#OrbitOne)
- - [ColonyMoon](#ColonyMoon)
- - [VacMars](#VacMars)
- - [TwoGalaxy](#TwoGalaxy)
-[Equipo de especialistas](#Equipo-de-especialistas)
-[Centro de operaciones](#Centro-de-operaciones)
-[Requerimientos](#Requerimientos)
-[📜 Instrucciones de uso](#📜-Instrucciones-de-uso)
+[Objetivo](#Objetivo-)
+ - [OrbitOne](#OrbitOne-)
+ - [ColonyMoon](#ColonyMoon-)
+ - [VacMars](#VacMars-)
+ - [TwoGalaxy](#TwoGalaxy-)
+[Equipo de especialistas](#Equipo-de-especialistas-)
+[Centro de operaciones](#Centro-de-operaciones-)
+[Requerimientos](#Requerimientos-)
+[Instrucciones de uso](#Instrucciones-de-uso-)
 
 
 #  <p align="center"> 🚀 Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales</p>
@@ -62,9 +62,9 @@ A lo largo de los años, Cabo Cañaveral ha contribuido significativamente al de
 
 ## <p align="center"> 📜 Requerimientos </P>
 
-### 1. Python
+### <p align="center"> 1. Python </P>
 
-Antes de comenzar con la instalación, asegúrate de cumplir con los siguientes requisitos previos:
+Asegúrese de que su sistema cumpla con los siguientes requisitos antes de comenzar la instalación:
 
 - Conexión a Internet
 - Espacio suficiente en disco
@@ -72,31 +72,39 @@ Antes de comenzar con la instalación, asegúrate de cumplir con los siguientes 
 
 #### Pasos de instalación
 
-##### 1. Descarga de Python
+### Windows
 
-Accede al sitio web oficial de Python para descargar la última versión del instalador: [Python Downloads](https://www.python.org/downloads/)
+1. Abra su navegador web y visite [python.org](https://www.python.org/).
+2. En la sección "Downloads", haga clic en "Python for Windows".
+3. Descargue el instalador ejecutable (`*.exe`) para la última versión estable.
 
-##### 2. Selección de la versión
+### macOS
 
-Elige la versión de Python que mejor se adapte a tus necesidades. Se recomienda utilizar la versión más reciente, a menos que tengas restricciones específicas.
+1. Abra su navegador web y visite [python.org](https://www.python.org/).
+2. En la sección "Downloads", haga clic en "Python for macOS".
+3. Descargue el instalador para la última versión estable.
 
-##### 3. Inicio del instalador
+### Linux
 
-Ejecuta el instalador descargado. Asegúrate de marcar la opción "Agregar Python X.X al PATH" durante la instalación para facilitar el acceso desde la línea de comandos.
+La instalación en Linux puede variar según la distribución. A continuación, se muestra un ejemplo para distribuciones basadas en Debian (como Ubuntu):
 
-##### 4. Configuración de variables de entorno
+1. Abra la terminal.
+2. Ejecute los siguientes comandos:
 
-Es posible que necesites configurar las variables de entorno según tu sistema operativo. Consulta la documentación específica para tu sistema para obtener instrucciones detalladas.
+```bash
+sudo apt update
+sudo apt install python3
+```
 
-- En Windows: [Configurar variables de entorno en Windows](https://www.java.com/en/download/help/path.xml)
-- En Linux/macOS: [Configurar variables de entorno en Linux/macOS](https://www.cyberciti.biz/faq/set-environment-variable-linux/)
+ :memo: **Recomendación:** Elegir la versión de Python que mejor se adapte a tus necesidades. Se recomienda utilizar la versión más reciente, a menos que tengas restricciones específicas.
 
-##### 5. Verificación de la instalación
+### Verificación de la instalación
 
 Abre una nueva terminal y ejecuta los siguientes comandos para verificar que Python se haya instalado correctamente:
 
 ```bash
 python --version
+```
 
 ## <p align="center"> 📜 Instrucciones de uso </P>
 
