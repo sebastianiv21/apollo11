@@ -3,9 +3,13 @@
 [Descripción del Proyecto](#descripción-del-proyecto) 
 
 [Objetivo](#objetivo)
+
 [Equipo de especialistas](#💻-equipo-de-especialistas)
+
 [Centro de operaciones](#🏢-centro-de-operaciones-cabo-cañaveral)
+
 [Requerimientos](#📜-requerimientos-del-proyecto)
+
 [Instrucciones de uso](#📜-instrucciones-de-uso)
 
 
