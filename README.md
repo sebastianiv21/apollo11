@@ -72,13 +72,13 @@ Para instalar Python, sigue estos sencillos pasos:
 
 3. Selecciona la versión de Python que prefieras. 
 
-:bulb: **Tip** Generalmente, se recomienda la última versión.
+:bulb: **Tip:** Generalmente, se recomienda la última versión.
 
 4. Descarga el instalador adecuado para tu sistema operativo (Windows, macOS o Linux).
 
 5. Ejecuta el instalador y sigue las instrucciones en pantalla.
 
-:bulb: **Tip** Puedes verificar la instalación abriendo una terminal y escribiendo:
+:bulb: **Tip:** Puedes verificar la instalación abriendo una terminal y escribiendo:
 
 ```bash
 `python --version`.
@@ -86,20 +86,21 @@ Para instalar Python, sigue estos sencillos pasos:
 
 ### <p align="center"> 2. Verificación de Pyp</P>
 
-:warning: **Atención** Asegúrate de tener Python instalado en tu sistema, debido que Pip generalmente se incluye automáticamente con las versiones mas actualizadas. 
+:warning: **Atención:** Asegúrate de tener Python instalado en tu sistema, debido que Pip generalmente se incluye automáticamente con las versiones mas actualizadas. 
 
-:bulb: **Tip** Para verificar si ya tienes pip instalado, abre la terminal y ejecuta el siguiente comando:
+1. Para verificar si ya tienes pip instalado, abre la terminal y ejecuta el siguiente comando:
 
 ```bash
 pip --version
 ```
 
-Si el comando no es reconocido, significa que pip no está instalado y necesitas proceder con la instalación.
+:memo: **Nota:** Si el comando no es reconocido, significa que pip no está instalado y necesitas proceder con la instalación.
 
-1. Dirígete al sitio web oficial de pip en https://pip.pypa.io/en/stable/installation/. Aquí encontrarás la información más actualizada sobre cómo instalar pip en diferentes sistemas operativos.
-2.  En la página de instalación, encontrarás un enlace o un script de instalación adecuado para tu sistema operativo. Haz clic derecho sobre el enlace y selecciona "Guardar enlace como..." para descargar el script en tu máquina.
+2. Dirígete al sitio web oficial de pip en https://pip.pypa.io/en/stable/installation/. Aquí encontrarás la información más actualizada sobre cómo instalar pip en diferentes sistemas operativos.
 
-:bulb: **Tip** Para asegurarte de que pip se ha instalado correctamente, ejecuta el siguiente comando en la terminal:
+3.  En la página de instalación, encontrarás un enlace o un script de instalación adecuado para tu sistema operativo. Haz clic derecho sobre el enlace y selecciona "Guardar enlace como..." para descargar el script en tu máquina.
+
+:bulb: **Tip:** Para asegurarte de que pip se ha instalado correctamente, ejecuta el siguiente comando en la terminal:
 
 ```bash
 pip --version
@@ -111,7 +112,7 @@ pip --version
 
 2. Una vez en la página oficial, sigue las instrucciones específicas de descarga e instalación para tu sistema operativo. Estas instrucciones te guiarán a través del proceso de instalación, asegurándote de obtener la versión más reciente y compatible de Git.
 
-:bulb: **Tip** Después de completar la instalación, verifica que Git se ha instalado correctamente ejecutando el siguiente comando en tu terminal o símbolo del sistema:
+:bulb: **Tip:** Después de completar la instalación, verifica que Git se ha instalado correctamente ejecutando el siguiente comando en tu terminal o símbolo del sistema:
 
 ```bash
 git --version
@@ -125,14 +126,14 @@ Para instalar Poetry, sigue los siguientes pasos:
 
 2. En la sección de instalación, encontrarás instrucciones detalladas para la instalación en diferentes sistemas operativos, para ello sigue las indicaciones específicas para tu entorno.
 
-:bulb: **Tip** Una vez completada la instalación, puedes verificar que Poetry se haya instalado correctamente ejecutando el siguiente comando en tu terminal:
+:bulb: **Tip:** Una vez completada la instalación, puedes verificar que Poetry se haya instalado correctamente ejecutando el siguiente comando en tu terminal:
 
     ```bash
     poetry --version
     ```
 ## <p align="center"> 📜 Instrucciones de uso </P>
 
-1. Para obtener el programa, clona el repositorio desde el siguiente enlace: [https://github.com/sebastianiv21/apollo11](https://github.com/sebastianiv21/apollo11). Si prefieres, también puedes descargar el código directamente.
+1. Para obtener el programa, clona el repositorio desde el siguiente enlace: [https://github.com/sebastianiv21/apollo11](https://github.com/sebastianiv21/apollo11).
 
 2. Accede a la ruta del programa y dirígete al archivo config_app.yaml. Este archivo contiene las configuraciones esenciales del programa, las cuales puedes personalizar según tus necesidades. A continuacion tienes un ejemplo del contenido del archivo:
 
@@ -163,5 +164,6 @@ python app.py ciclo_simulacion periodicidad_ejecucion
 ```
 4. Asegúrate de proporcionar los siguientes argumentos:
 
-**ciclo_simulacion:** Indica la cantidad de ciclos requeridos.
-**periodicidad_ejecucion:** Intervalo de tiempo entre cada ciclo, expresado en segundos.
+- **ciclo_simulacion:** Indica la cantidad de ciclos requeridos.
+
+- **periodicidad_ejecucion:** Intervalo de tiempo entre cada ciclo, expresado en segundos.
