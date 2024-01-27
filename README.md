@@ -3,8 +3,7 @@
 ## Descripción del Proyecto
 
 Desarrollado por la NASA, este sistema implementa un monitoreo basado en la transmisión de archivos con intervalos de 20 segundos, con el objetivo de proporcionar un control detallado sobre el estado operativo de cada componente clave para detectar tempranamente posibles anomalías. Esto facilita la toma de acciones preventivas tanto en el espacio como en la Tierra.
-![Apollo11logo](docs/build/html/_static/imageapollo.jpg)
-
+<img src="docs/build/html/_static/imageapollo.jpg" width="100" height="100">
 ## Objetivo
 
 La adopción de esta tecnología avanzada es crucial para asegurar la seguridad de astronautas y turistas en futuras misiones espaciales. Además, la capacidad de monitoreo en tiempo real proporcionada por este sistema ofrece una ventaja significativa, permitiendo una respuesta inmediata ante cualquier situación imprevista. Esto, a su vez, mejora la eficiencia y la efectividad de los siguientes proyectos espaciales:
