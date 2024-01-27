@@ -18,7 +18,7 @@ Con su visión de modernizar la flota de satélites, representa un paso crucial 
 Proyecto Nro2: CM
 ------------
 
-    .. image:: _static/Colonymoon.png
+    .. image:: _static/ColonyMoon.png
         :align: left
         :width: 300
         :height: 300

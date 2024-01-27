@@ -1,8 +1,9 @@
-# 🚀 Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales
+#  <p align="center"> 🚀 Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales</p>
 
-<p aling="center">
-<img src="docs/build/html/_static/imageapollo.png" width="300" height="300">
-</p>
+
+ <img src="docs/build/html/_static/imageapollo.png" width="300" height="300">
+
+
 ## Descripción del Proyecto
 
 Desarrollado por la NASA, este sistema implementa un monitoreo basado en la transmisión de archivos con intervalos de 20 segundos, con el objetivo de proporcionar un control detallado sobre el estado operativo de cada componente clave para detectar tempranamente posibles anomalías. Esto facilita la toma de acciones preventivas tanto en el espacio como en la Tierra.
@@ -18,7 +19,7 @@ La adopción de esta tecnología avanzada es crucial para asegurar la seguridad 
 
 2. 🌕 **ColonyMoon**: La idea de establecer una colonia en la Luna a través de ColonyMoon es un ambicioso proyecto que podría cambiar para siempre la narrativa de la exploración espacial. Más allá de la emoción y la novedad de establecer una presencia humana en nuestro satélite natural, esta colonia lunar podría servir como un laboratorio espacial para experimentos y estudios que no serían posibles en la Tierra. Además, podría convertirse en una base de operaciones estratégica para futuras misiones espaciales más allá de nuestro sistema solar
 
-<img src="docs/build/html/_static/Colonymoon" width="300" height="300">
+<img src="docs/build/html/_static/ColonyMoon" width="300" height="300">
 
 3. 🌋 **VacMars**: Propone llevar a cabo viajes turísticos a Marte, llevando la exploración espacial a nuevas alturas. Este enfoque no solo proporciona oportunidades emocionan tes para los entusiastas del espacio, sino que también puede ser una fuente de financiamiento para proyectos científicos más ambiciosos. Al hacer que Marte sea accesible para los turistas, se abriría una nueva era de colaboración público-privada en la exploración espacial, creando una sinergia entre el interés comercial y la investigación científica.
 
