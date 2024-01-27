@@ -50,7 +50,7 @@ La adopción de esta tecnología avanzada es crucial para asegurar la seguridad 
 | Leonardo Alfonso  |  Cometa Trujillo | Ingeniero de Software Espacial  |
 | Alvaro Jose  | Polania Alvarez | Ingeniero de Comunicaciones Espaciales  |
 
-## <p align="center">🏢Centro de operaciones: Cabo Cañaveral</P>
+## <p align="center">🏢 Centro de operaciones: Cabo Cañaveral</P>
 
 <p align="center"><img src="docs/build/html/_static/Cañaveral.jpg "width="200" height="200"></p>
 
@@ -58,7 +58,7 @@ Ubicado en la costa este de Florida, Estados Unidos, es reconocido por ser la se
 
 # <p align="center">Desarrollo del proyecto</P>
 
-## <p align="center">📜Requerimientos del proyecto</P>
+## <p align="center">📜 Requerimientos del proyecto</P>
 
 ### <p align="center"> 1. Instalación de Python </P>
 
@@ -129,7 +129,7 @@ Para instalar Poetry, sigue los siguientes pasos:
     ```bash
     poetry --version
     ```
-## <p align="center">📜Instrucciones de uso</P>
+## <p align="center">📜 Instrucciones de uso</P>
 
 1. Para obtener el programa, clona el repositorio desde el siguiente enlace: [https://github.com/sebastianiv21/apollo11](https://github.com/sebastianiv21/apollo11).
 
