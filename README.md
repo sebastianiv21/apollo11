@@ -84,7 +84,7 @@ Para instalar Python, sigue estos sencillos pasos:
 
 ### <p align="center"> 2. Verificación de Pyp</P>
 
-::warning: **Atención** Asegúrate de tener Python instalado en tu sistema, debido que Pip generalmente se incluye automáticamente con las versiones de Python 3.4 y posteriores. Para verificar si ya tienes pip instalado, abre la terminal y ejecuta el siguiente comando:
+:warning: **Atención** Asegúrate de tener Python instalado en tu sistema, debido que Pip generalmente se incluye automáticamente con las versiones de Python 3.4 y posteriores. Para verificar si ya tienes pip instalado, abre la terminal y ejecuta el siguiente comando:
 
 ```bash
 pip --version
@@ -98,7 +98,6 @@ Si el comando no es reconocido, significa que pip no está instalado y necesitas
 ```bash
 pip --version
 ```
-Este comando debería mostrar la versión de pip que acabas de instalar.
 
 ### <p align="center"> 3. Instalación de GIT</P>
 1. Dirígete a la página oficial de Git en https://git-scm.com/ para descargar el instalador correspondiente a tu sistema operativo. En la página principal, encontrarás enlaces de descarga para Windows, macOS y opciones para sistemas basados en Linux.
@@ -110,7 +109,6 @@ Este comando debería mostrar la versión de pip que acabas de instalar.
 ```bash
 git --version
 ```
-Este simple paso te permitirá confirmar que Git está listo para su uso en tu entorno de desarrollo.
 
 ### <p align="center"> 4. Instalación de Poetry</P>
 
@@ -128,7 +126,8 @@ Para instalar Poetry, sigue los siguientes pasos:
 ## <p align="center"> 📜 Instrucciones de uso </P>
 
 1. Para obtener el programa, clona el repositorio desde el siguiente enlace: [https://github.com/sebastianiv21/apollo11](https://github.com/sebastianiv21/apollo11). Si prefieres, también puedes descargar el código directamente.
-2. Accede a la ruta del programa y dirígete al archivo config_app.yaml. Este archivo contiene las configuraciones esenciales del programa, las cuales puedes personalizar según tus necesidades. Aquí tienes un ejemplo del contenido del archivo:
+
+2. Accede a la ruta del programa y dirígete al archivo config_app.yaml. Este archivo contiene las configuraciones esenciales del programa, las cuales puedes personalizar según tus necesidades. A continuacion tienes un ejemplo del contenido del archivo:
 
 ```yaml
 
@@ -150,8 +149,6 @@ estado_dispositivo:
   - killed
   - unknown
 ```
-Ajusta los valores de las variables según tus requisitos.
-
 3. Abre una consola o terminal y ubícate en la carpeta que contiene la aplicación. Luego, ejecuta el siguiente comando:
 
 ```bash
@@ -159,5 +156,5 @@ python app.py ciclo_simulacion periodicidad_ejecucion
 ```
 4. Asegúrate de proporcionar los siguientes argumentos:
 
-5. ciclo_simulacion: Cantidad de ciclos requeridos.
-periodicidad_ejecucion: Intervalo de tiempo entre cada ciclo, expresado en segundos.
+**ciclo_simulacion:** Indica la cantidad de ciclos requeridos.
+**periodicidad_ejecucion:** Intervalo de tiempo entre cada ciclo, expresado en segundos.
