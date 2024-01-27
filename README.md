@@ -96,7 +96,7 @@ sudo apt install python3
 
  :memo: **Recomendación:** Elegir la versión de Python que mejor se adapte a sus necesidades, sin embargo se recomienda utilizar la versión más reciente.
 
-### <p align="center"> 1. Instalación de Poetry con Pip </P>
+### <p align="center"> 2. Instalación de Poetry</P>
 
 #### Requisitos previos
 
@@ -135,7 +135,7 @@ Poetry gestiona las dependencias dentro de un entorno virtual. Para crear un nue
 ```bash
 poetry install
 ```
-:memo: **Nota:**Este comando leerá las dependencias de su archivo pyproject.toml y creará un entorno virtual en el directorio .venv.
+:memo: **Nota:** Este comando leerá las dependencias de su archivo pyproject.toml y creará un entorno virtual en el directorio .venv.
 
 ##### Paso 4: Activar el entorno virtual
 Para activar el entorno virtual, utilice el siguiente comando
@@ -148,7 +148,7 @@ En sistemas Windows:
 ```bash
 .venv\Scripts\activate
 ```
-:memo: **Nota:**Cuando el entorno virtual esté activado, verá el nombre de su entorno en el indicador de la terminal.
+:memo: **Nota:** Cuando el entorno virtual esté activado, verá el nombre de su entorno en el indicador de la terminal.
 
 ## <p align="center"> 📜 Instrucciones de uso </P>
 
