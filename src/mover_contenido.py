@@ -57,6 +57,6 @@ def mover_contenido(origen, destino):
 
 # Ejemplo de uso
 origen = '../apollo11/mover'
-destino = '../apollo11/destino'
+destino = '../apollo11/devices'
 
 mover_contenido(origen, destino)
