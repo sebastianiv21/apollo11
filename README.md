@@ -7,7 +7,6 @@
 - [ColonyMoon](#ColonyMoon)
 - [VacMars](#VacMars)
 - [TwoGalaxy](#TwoGalaxy)
-
 [Equipo de especialistas](#Equipo-de-especialistas)
 [Centro de operaciones](#Centro-de-operaciones)
 [Requerimientos](#Requerimientos)
@@ -46,16 +45,14 @@ La adopción de esta tecnología avanzada es crucial para asegurar la seguridad 
 <p align="center"><img src="docs/build/html/_static/Galaxytwo.png" width="200" height="200"></p>
 
 ## <p align="center"> 💻 Equipo de especialistas </p>
-
+<p align="center">
 |  Nombres |  Apellidos | Cargo  |
 | :------------: | :------------: | :------------: |
 | Luis Sebastian  |  Ibarra Villamil | Ingeniero de Sistemas Espaciales  |
 | Leonardo Alfonso  |  Cometa Trujillo | Ingeniero de Software Espacial  |
 | Alvaro Jose  | Polania Alvarez | Ingeniero de Comunicaciones Espaciales  |
-
-## <p align="center"> 🏢 Centro de operaciones </P>
-
-### <p align="center"> Cabo Cañaveral  </P>
+</p>
+## <p align="center"> 🏢 Centro de operaciones: Cabo Cañaveral </P>
 
 <p align="center"><img src="docs/build/html/_static/Cañaveral.jpg" width="300" height="300"></p>
 
