@@ -28,7 +28,7 @@ Desarrollado por la NASA, este sistema implementa un monitoreo basado en la tran
 
 La adopción de esta tecnología avanzada es crucial para asegurar la seguridad de astronautas y turistas en futuras misiones espaciales. Además, la capacidad de monitoreo en tiempo real proporcionada por este sistema ofrece una ventaja significativa, permitiendo una respuesta inmediata ante cualquier situación imprevista. Esto, a su vez, mejora la eficiencia y la efectividad de los siguientes proyectos espaciales:
 
-<img src="docs/build/html/_static/Orbitone.png" width="200" height="200"> 1. 📡 **OrbitOne**: Con su visión de modernizar la flota de satélites, representa un paso crucial hacia la mejora del rendimiento y la expansión de las comunicaciones. La actualización de la flota satelital no solo implica una mayor eficiencia en cobertura, sino también una mejora significativa en la calidad de las transmisiones y la recopilación de datos. Este enfoque modernizador no solo beneficia a la comunidad científica, sino que también tiene implicaciones importantes para el avance de las tecnologías de comunicación en la Tierra.
+1. 📡 **OrbitOne**: Con su visión de modernizar la flota de satélites, representa un paso crucial hacia la mejora del rendimiento y la expansión de las comunicaciones. La actualización de la flota satelital no solo implica una mayor eficiencia en cobertura, sino también una mejora significativa en la calidad de las transmisiones y la recopilación de datos. Este enfoque modernizador no solo beneficia a la comunidad científica, sino que también tiene implicaciones importantes para el avance de las tecnologías de comunicación en la Tierra.
 <p align="center"><img src="docs/build/html/_static/Orbitone.png" width="200" height="200"> </p>
 
 
@@ -61,6 +61,42 @@ Ubicado en la costa este de Florida, Estados Unidos, es reconocido por ser la se
 A lo largo de los años, Cabo Cañaveral ha contribuido significativamente al desarrollo de la exploración espacial, siendo crucial en el programa Apolo y en el lanzamiento de misiones del transbordador espacial que facilitaron la construcción y mantenimiento de la Estación Espacial Internacional (EEI). La importancia de este centro no se limita a misiones de la NASA, ya que también ha atraído la atención de empresas privadas como SpaceX, que utiliza las instalaciones para lanzamientos comerciales.
 
 ## <p align="center"> 📜 Requerimientos </P>
+
+### 1. Python
+
+Antes de comenzar con la instalación, asegúrate de cumplir con los siguientes requisitos previos:
+
+- Conexión a Internet
+- Espacio suficiente en disco
+- Privilegios de administrador (en caso necesario)
+
+#### Pasos de instalación
+
+##### 1. Descarga de Python
+
+Accede al sitio web oficial de Python para descargar la última versión del instalador: [Python Downloads](https://www.python.org/downloads/)
+
+##### 2. Selección de la versión
+
+Elige la versión de Python que mejor se adapte a tus necesidades. Se recomienda utilizar la versión más reciente, a menos que tengas restricciones específicas.
+
+##### 3. Inicio del instalador
+
+Ejecuta el instalador descargado. Asegúrate de marcar la opción "Agregar Python X.X al PATH" durante la instalación para facilitar el acceso desde la línea de comandos.
+
+##### 4. Configuración de variables de entorno
+
+Es posible que necesites configurar las variables de entorno según tu sistema operativo. Consulta la documentación específica para tu sistema para obtener instrucciones detalladas.
+
+- En Windows: [Configurar variables de entorno en Windows](https://www.java.com/en/download/help/path.xml)
+- En Linux/macOS: [Configurar variables de entorno en Linux/macOS](https://www.cyberciti.biz/faq/set-environment-variable-linux/)
+
+##### 5. Verificación de la instalación
+
+Abre una nueva terminal y ejecuta los siguientes comandos para verificar que Python se haya instalado correctamente:
+
+```bash
+python --version
 
 ## <p align="center"> 📜 Instrucciones de uso </P>
 

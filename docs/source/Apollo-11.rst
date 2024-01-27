@@ -24,21 +24,21 @@ La adopción de esta tecnología avanzada es crucial para asegurar la seguridad 
 
 Equipo de especialistas
 ------------
-.. figure:: _static/ibarra.jpg
+.. figure:: _static/ibarra.png
    :align: left
    :width: 200
    :height: 200
 
    :doc:`Ibarra` 
 
-.. figure:: _static/leonardo.jpg
+.. figure:: _static/leonardo.png
    :align: left
    :width: 200
    :height: 200
 
    :doc:`Leonardo` 
 
-.. figure:: _static/yo.jpg
+.. figure:: _static/yo.png
    :align: left
    :width: 200
    :height: 200
