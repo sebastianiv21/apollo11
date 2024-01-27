@@ -10,7 +10,7 @@
   2. [Instrucciones de uso](#-instrucciones-de-uso)
 
 
-# <p align="center">🚀Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales</p>
+# <p align="center">🚀 Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales</p>
 
 
 <p align="center"> <img src="docs/build/html/_static/imageapollo.png" width="300" height="300"> </p>
