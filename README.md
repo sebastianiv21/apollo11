@@ -1,3 +1,11 @@
+#### Tabla de Contenido
+
+- [DescripcióndelProyecto](#Descripción del Proyecto)
+- [Objetivo](#Objetivo)
+- [Center](#center)
+- [Equipodeespecialistas](#Equipo de especialistas)
+
+
 #  <p align="center"> 🚀 Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales</p>
 
 
@@ -19,7 +27,7 @@ La adopción de esta tecnología avanzada es crucial para asegurar la seguridad 
 
 2. 🌕 **ColonyMoon**: La idea de establecer una colonia en la Luna a través de ColonyMoon es un ambicioso proyecto que podría cambiar para siempre la narrativa de la exploración espacial. Más allá de la emoción y la novedad de establecer una presencia humana en nuestro satélite natural, esta colonia lunar podría servir como un laboratorio espacial para experimentos y estudios que no serían posibles en la Tierra. Además, podría convertirse en una base de operaciones estratégica para futuras misiones espaciales más allá de nuestro sistema solar
 
-<p align="center"><img src="docs/build/html/_static/ColonyMoon.png" width="200" height="200"></p>
+<p align="center"><img src="docs/build/html/_static/Colonymoon.png" width="200" height="200"></p>
 
 3. 🌋 **VacMars**: Propone llevar a cabo viajes turísticos a Marte, llevando la exploración espacial a nuevas alturas. Este enfoque no solo proporciona oportunidades emocionan tes para los entusiastas del espacio, sino que también puede ser una fuente de financiamiento para proyectos científicos más ambiciosos. Al hacer que Marte sea accesible para los turistas, se abriría una nueva era de colaboración público-privada en la exploración espacial, creando una sinergia entre el interés comercial y la investigación científica.
 
@@ -39,9 +47,9 @@ La adopción de esta tecnología avanzada es crucial para asegurar la seguridad 
 
 ## <p align="center"> 🏢 Centro de operaciones </P>
 
-### Cabo Cañaveral 
+### <p align="center"> Cabo Cañaveral  </P>
 
-<p align="center"><img src="docs/build/html/_static/Cañaveral.jpg" width="300" height="300"></p>
+<p align="center"><img src="docs/build/html/_static/Cañaveral.jpg" width="500" height="300"></p>
 
 Es un cabo bajo y arenoso ubicado en el sureste de la Florida (Estados Unidos), donde se encuentra la ciudad del mismo nombre fundada en 1963, perteneciente al condado de Brevard y el principal centro espacial que lleva el nombre de John F. Kennedy, comprende el centro operativo de lanzamiento de la NASA y la primera de las estaciones de control de misiles de la zona atlántica.
 
