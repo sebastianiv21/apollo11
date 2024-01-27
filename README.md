@@ -3,11 +3,11 @@
 - [Contexto del Proyecto](#🚀apollo-11-sistema-de-simulación-y-monitoreo-para-misiones-espaciales) 
  1. [Descripción del Proyecto](#descripción-del-proyecto) 
  2. [Objetivo](#objetivo)
- 3. [Equipo de especialistas](#💻-equipo-de-especialistas)
-4. [Centro de operaciones](#🏢-centro-de-operaciones-cabo-cañaveral)
+ 3. [Equipo de especialistas](#💻equipo-de-especialistas)
+4. [Centro de operaciones](#🏢centro-de-operaciones-cabo-cañaveral)
 
-- [Requerimientos](#📜-requerimientos-del-proyecto)
-- [Instrucciones de uso](#📜-instrucciones-de-uso)
+- [Requerimientos](#📜requerimientos-del-proyecto)
+- [Instrucciones de uso](#📜instrucciones-de-uso)
 
 
 # <p align="center">🚀Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales</p>
@@ -50,14 +50,14 @@ La adopción de esta tecnología avanzada es crucial para asegurar la seguridad 
 | Leonardo Alfonso  |  Cometa Trujillo | Ingeniero de Software Espacial  |
 | Alvaro Jose  | Polania Alvarez | Ingeniero de Comunicaciones Espaciales  |
 
-## <p align="center">🏢 Centro de operaciones: Cabo Cañaveral</P>
+## <p align="center">🏢Centro de operaciones: Cabo Cañaveral</P>
 
 <p align="center"><img src="docs/build/html/_static/Cañaveral.jpg "width="200" height="200"></p>
 
 Ubicado en la costa este de Florida, Estados Unidos, es reconocido por ser la sede del Centro Espacial Kennedy (CEK), una instalación fundamental para la exploración espacial. A lo largo de los años, ha contribuido significativamente al desarrollo de la exploración espacial, siendo crucial en el programa Apolo y en el lanzamiento de misiones del transbordador espacial que facilitaron la construcción y mantenimiento de la Estación Espacial Internacional (EEI). 
 
 
-## <p align="center">📜 Requerimientos del proyecto</P>
+## <p align="center">📜Requerimientos del proyecto</P>
 
 ### <p align="center"> 1. Instalación de Python </P>
 
@@ -75,7 +75,7 @@ Para instalar Python, sigue estos sencillos pasos:
 
 5. Ejecuta el instalador y sigue las instrucciones en pantalla.
 
-:info: **Infor:** Puedes verificar la instalación abriendo una terminal y escribiendo el siguiente comando:
+:bulb: **Tip:** Puedes verificar la instalación abriendo una terminal y escribiendo el siguiente comando:
 
 ```bash
 `python --version`.
@@ -96,9 +96,8 @@ pip --version
 2. Dirígete al sitio web oficial de pip en https://pip.pypa.io/en/stable/installation/. Aquí encontrarás la información actualizada sobre cómo instalar pip en diferentes sistemas operativos.
 
 3.  En la página de instalación, encontrarás un enlace o un script de instalación adecuado para tu sistema operativo. Haz clic derecho sobre el enlace y selecciona "Guardar enlace como..." para descargar el script en tu máquina.
-!!! info ""
-    Esta nota va sin título.
-:info: **Info:** Para asegurarte de que pip se ha instalado correctamente, ejecuta el siguiente comando en la terminal:
+
+:bulb: **Tip:** Para asegurarte de que pip se ha instalado correctamente, ejecuta el siguiente comando en la terminal:
 
 ```bash
 pip --version
@@ -110,7 +109,7 @@ pip --version
 
 2. Una vez en la página oficial, sigue las instrucciones específicas de descarga e instalación para tu sistema operativo. Estas instrucciones te guiarán a través del proceso de instalación, asegurándote de obtener la versión más reciente y compatible de Git.
 
-:info: **Info:** Después de completar la instalación, verifica que Git se ha instalado correctamente ejecutando el siguiente comando en tu terminal o símbolo del sistema:
+:bulb: **Tip:** Después de completar la instalación, verifica que Git se ha instalado correctamente ejecutando el siguiente comando en tu terminal o símbolo del sistema:
 
 ```bash
 git --version
@@ -124,12 +123,12 @@ Para instalar Poetry, sigue los siguientes pasos:
 
 2. En la sección de instalación, encontrarás instrucciones detalladas para la instalación en diferentes sistemas operativos, para ello sigue las indicaciones específicas para tu entorno.
 
-:info: **Info:** Una vez completada la instalación, puedes verificar que Poetry se haya instalado correctamente ejecutando el siguiente comando en tu terminal:
+:bulb: **Tip:** Una vez completada la instalación, puedes verificar que Poetry se haya instalado correctamente ejecutando el siguiente comando en tu terminal:
 
     ```bash
     poetry --version
     ```
-## <p align="center">📜 Instrucciones de uso</P>
+## <p align="center">📜Instrucciones de uso</P>
 
 1. Para obtener el programa, clona el repositorio desde el siguiente enlace: [https://github.com/sebastianiv21/apollo11](https://github.com/sebastianiv21/apollo11).
 
