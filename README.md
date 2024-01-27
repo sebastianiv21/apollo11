@@ -3,11 +3,10 @@
 [Descripción del Proyecto](#Descripción-del-Proyecto) 
 
 [Objetivo](#Objetivo)
-- [OrbitOne](#OrbitOne)
-- [ColonyMoon](#ColonyMoon)
-- [VacMars](#VacMars)
-- [TwoGalaxy](#TwoGalaxy)
-
+ - [OrbitOne](#OrbitOne)
+ - [ColonyMoon](#ColonyMoon)
+ - [VacMars](#VacMars)
+ - [TwoGalaxy](#TwoGalaxy)
 [Equipo de especialistas](#Equipo-de-especialistas)
 [Centro de operaciones](#Centro-de-operaciones)
 [Requerimientos](#Requerimientos)
@@ -29,7 +28,7 @@ Desarrollado por la NASA, este sistema implementa un monitoreo basado en la tran
 
 La adopción de esta tecnología avanzada es crucial para asegurar la seguridad de astronautas y turistas en futuras misiones espaciales. Además, la capacidad de monitoreo en tiempo real proporcionada por este sistema ofrece una ventaja significativa, permitiendo una respuesta inmediata ante cualquier situación imprevista. Esto, a su vez, mejora la eficiencia y la efectividad de los siguientes proyectos espaciales:
 
-1. 📡 **OrbitOne**: Con su visión de modernizar la flota de satélites, representa un paso crucial hacia la mejora del rendimiento y la expansión de las comunicaciones. La actualización de la flota satelital no solo implica una mayor eficiencia en cobertura, sino también una mejora significativa en la calidad de las transmisiones y la recopilación de datos. Este enfoque modernizador no solo beneficia a la comunidad científica, sino que también tiene implicaciones importantes para el avance de las tecnologías de comunicación en la Tierra.
+1. <img src="docs/build/html/_static/Orbitone.png" width="200" height="200"> 📡 **OrbitOne**: Con su visión de modernizar la flota de satélites, representa un paso crucial hacia la mejora del rendimiento y la expansión de las comunicaciones. La actualización de la flota satelital no solo implica una mayor eficiencia en cobertura, sino también una mejora significativa en la calidad de las transmisiones y la recopilación de datos. Este enfoque modernizador no solo beneficia a la comunidad científica, sino que también tiene implicaciones importantes para el avance de las tecnologías de comunicación en la Tierra.
 <p align="center"><img src="docs/build/html/_static/Orbitone.png" width="200" height="200"> </p>
 
 
@@ -55,11 +54,11 @@ La adopción de esta tecnología avanzada es crucial para asegurar la seguridad 
 
 ## <p align="center"> 🏢 Centro de operaciones: Cabo Cañaveral </P>
 
-<p align="center"><img src="docs/build/html/_static/Cañaveral.jpg" width="300" height="300"></p>
+<p align="center"><img src="docs/build/html/_static/Cañaveral.jpg " alt=" 🌍 28°27′20″N 80°31′40″O" width="300" height="300"></p>
 
-Es un cabo bajo y arenoso ubicado en el sureste de la Florida (Estados Unidos), donde se encuentra la ciudad del mismo nombre fundada en 1963, perteneciente al condado de Brevard y el principal centro espacial que lleva el nombre de John F. Kennedy, comprende el centro operativo de lanzamiento de la NASA y la primera de las estaciones de control de misiles de la zona atlántica.
+Ubicado en la costa este de Florida, Estados Unidos, es reconocido por ser la sede del Centro Espacial Kennedy (CEK), una instalación fundamental para la exploración espacial. Este centro, antes conocido como Cabo Cañaveral Air Force Station, ha desempeñado un papel esencial en la historia de la exploración espacial.
 
-Ha desempeñado un papel crucial en el programa espacial de Estados Unidos y su ubicación ofrece una singular ventaja para el lanzamiento de cohetes debido a su proximidad al océano.
+A lo largo de los años, Cabo Cañaveral ha contribuido significativamente al desarrollo de la exploración espacial, siendo crucial en el programa Apolo y en el lanzamiento de misiones del transbordador espacial que facilitaron la construcción y mantenimiento de la Estación Espacial Internacional (EEI). La importancia de este centro no se limita a misiones de la NASA, ya que también ha atraído la atención de empresas privadas como SpaceX, que utiliza las instalaciones para lanzamientos comerciales.
 
 ## <p align="center"> 📜 Requerimientos </P>
 
