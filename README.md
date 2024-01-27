@@ -1,8 +1,8 @@
 #### Tabla de Contenido
 
-- [Descripción del Proyecto](##Descripción del Proyecto)
-- [Objetivo](##Objetivo)
-- [Equipo de especialistas](##Equipo de especialistas)
+- [Descripción del Proyecto](#Descripción-del-Proyecto)
+- [Objetivo](#Objetivo)
+- [Equipo de especialistas](#Equipo-de-especialistas)
 
 
 #  <p align="center"> 🚀 Apollo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales</p>
