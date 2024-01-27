@@ -9,7 +9,7 @@ Descripción del Proyecto
 ------------
 Desarrollado por la :ref:`Nasa <nasa>`, este sistema implementa un monitoreo basado en la transmisión de archivos con intervalos de 20 segundos, con el objetivo de proporcionar un control detallado sobre el estado operativo de cada componente clave para detectar tempranamente posibles anomalías. Esto facilita la toma de acciones preventivas tanto en el espacio como en la Tierra.
 
-.. image:: _static/imageapollo.jpg
+.. image:: _static/imageapollo.png
    :width: 350
    :height: 350
 

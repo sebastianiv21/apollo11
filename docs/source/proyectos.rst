@@ -6,7 +6,7 @@ Proyectos Vanguardistas para la Colonización Espacial
 Proyecto Nro1: OO
 ------------
 
-    .. image:: _static/Orbitone.jpg
+    .. image:: _static/Orbitone.png
         :align: right
         :width: 300
         :height: 300
@@ -18,7 +18,7 @@ Con su visión de modernizar la flota de satélites, representa un paso crucial 
 Proyecto Nro2: CM
 ------------
 
-    .. image:: _static/Colonymoon.jpg
+    .. image:: _static/Colonymoon.png
         :align: left
         :width: 300
         :height: 300
@@ -29,7 +29,7 @@ La idea de establecer una colonia en la Luna a través de ColonyMoon es un ambic
 Proyecto Nro3: VM
 ------------
 
-    .. image:: _static/Vacmars.jpg
+    .. image:: _static/Vacmars.png
         :align: right
         :width: 300
         :height: 300
@@ -40,7 +40,7 @@ Propone llevar a cabo viajes turísticos a Marte, llevando la exploración espac
 Proyecto Nro4: GT
 ------------
 
-    .. image:: _static/Galaxytwo.jpg
+    .. image:: _static/Galaxytwo.png
         :align: left
         :width: 300
         :height: 300
