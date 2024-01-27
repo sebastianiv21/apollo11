@@ -26,7 +26,9 @@ La adopción de esta tecnología avanzada es crucial para asegurar la seguridad 
 | Alvaro Jose  | Polania Alvarez | Ingeniero de Comunicaciones Espaciales  |
 
 ## 🏢 Centro de operaciones
-Cabo Cañaveral. Es un cabo bajo y arenoso ubicado en el sureste de la Florida (Estados Unidos), donde se encuentra la ciudad del mismo nombre fundada en 1963, perteneciente al condado de Brevard y el principal centro espacial que lleva el nombre de John F. Kennedy, comprende el centro operativo de lanzamiento de la NASA y la primera de las estaciones de control de misiles de la zona atlántica.
+### Cabo Cañaveral 
+
+Es un cabo bajo y arenoso ubicado en el sureste de la Florida (Estados Unidos), donde se encuentra la ciudad del mismo nombre fundada en 1963, perteneciente al condado de Brevard y el principal centro espacial que lleva el nombre de John F. Kennedy, comprende el centro operativo de lanzamiento de la NASA y la primera de las estaciones de control de misiles de la zona atlántica.
 
 Ha desempeñado un papel crucial en el programa espacial de Estados Unidos y su ubicación ofrece una singular ventaja para el lanzamiento de cohetes debido a su proximidad al océano.
 

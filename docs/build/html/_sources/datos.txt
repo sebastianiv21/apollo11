@@ -1,0 +1,5 @@
+fecha: 2023-12-16
+mision: Misión A
+tipo de dispositivo: Tipo 1
+estado del dispositivo: Activo
+hash: abcdef1234567890

@@ -1,0 +1,41 @@
+.. raw:: html
+
+ <div style="text-align:center;">
+
+Apolo-11: Sistema de Simulación y Monitoreo para Misiones Espaciales de la NASA
+===== 
+El proyecto "Apolo-11" ideado por la :ref:`Nasa <nasa>`, tiene como objetivo la implementación de un sistema de monitoreo basado en la transmisión de archivos, operando a intervalos de 20 segundos. Con este enfoque, se busca lograr un control minucioso sobre el estado operativo de cada componente clave. Esto, a su vez, posibilitará la detección temprana de posibles anomalías y la consecuente toma de acciones preventivas tanto en el espacio como en la Tierra.
+
+.. image:: _static/imageapollo.jpg
+   :width: 600
+   :height: 400
+
+La implementación de esta tecnología avanzada es esencial, ya que garantizará la seguridad y supervivencia de astronautas y turistas involucrados en las futuras misiones. Además, la capacidad de monitoreo en tiempo real proporcionada por este sistema ofrece una ventaja significativa al permitir una respuesta inmediata ante cualquier situación imprevista, mejorando así la eficiencia y la efectividad de las siguientes misiones espaciales:
+
+#. :ref:`OrbitOne <OrbitOne>`
+#. :ref:`ColonyMoon <ColonyMoon>`
+#. :ref:`VacMars <VacMars>`
+#. :ref:`GalaxyTwo <GalaxyTwo>`
+
+Especialistas
+===== 
+.. figure:: _static/ibarra.jpg
+   :align: left
+   :width: 200
+   :height: 200
+
+   :doc:`Ibarra` 
+
+.. figure:: _static/leonardo.jpg
+   :align: left
+   :width: 200
+   :height: 200
+
+   :doc:`Leonardo` 
+
+.. figure:: _static/yo.jpg
+   :align: left
+   :width: 200
+   :height: 200
+
+   :doc:`Alvaro`

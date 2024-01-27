@@ -1,0 +1,39 @@
+usage
+=====
+
+Aquí se documentan los campos semiestructurados.
+
+Fecha
+-----
+
+.. code-block:: plaintext
+
+    fecha: 2023-12-16
+
+Misión
+------
+
+.. code-block:: plaintext
+
+    mision: Misión A
+
+Tipo de Dispositivo
+-------------------
+
+.. code-block:: plaintext
+
+    tipo de dispositivo: Tipo 1
+
+Estado del Dispositivo
+----------------------
+
+.. code-block:: plaintext
+
+    estado del dispositivo: Activo
+
+Hash
+----
+
+.. code-block:: plaintext
+
+    hash: abcdef1234567890

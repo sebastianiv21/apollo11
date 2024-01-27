@@ -1,0 +1,27 @@
+Mi Código Python
+===============
+
+.. automodule:: nombre_del_modulo
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Detalles de la Misión
+=====================
+
+.. code-block:: python
+
+   from datetime import date
+
+   def procesar_mision(fecha, mision, device_type, device_status):
+       """
+       Procesa los datos de la misión y realiza las operaciones necesarias.
+
+       :param fecha: Fecha de la misión (date).
+       :param mision: Nombre de la misión.
+       :param device_type: Tipo de dispositivo.
+       :param device_status: Estado del dispositivo.
+
+       :return: Algo
+       """
+       # Implementa el código aquí
