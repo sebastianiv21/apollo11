@@ -14,7 +14,7 @@ Desarrollado por la NASA, este sistema implementa un monitoreo basado en la tran
 La adopción de esta tecnología avanzada es crucial para asegurar la seguridad de astronautas y turistas en futuras misiones espaciales. Además, la capacidad de monitoreo en tiempo real proporcionada por este sistema ofrece una ventaja significativa, permitiendo una respuesta inmediata ante cualquier situación imprevista. Esto, a su vez, mejora la eficiencia y la efectividad de los siguientes proyectos espaciales:
 
 <p align="left"><img src="docs/build/html/_static/Orbitone.png" width="300" height="300"></p>
-1. 📡 **OrbitOne**: Con su visión de modernizar la flota de satélites, representa un paso crucial hacia la mejora del rendimiento y la expansión de las comunicaciones. La actualización de la flota satelital no solo implica una mayor eficiencia en cobertura, sino también una mejora significativa en la calidad de las transmisiones y la recopilación de datos. Este enfoque modernizador no solo beneficia a la comunidad científica, sino que también tiene implicaciones importantes para el avance de las tecnologías de comunicación en la Tierra.
+<p align="right">1. 📡 **OrbitOne**: Con su visión de modernizar la flota de satélites, representa un paso crucial hacia la mejora del rendimiento y la expansión de las comunicaciones. La actualización de la flota satelital no solo implica una mayor eficiencia en cobertura, sino también una mejora significativa en la calidad de las transmisiones y la recopilación de datos. Este enfoque modernizador no solo beneficia a la comunidad científica, sino que también tiene implicaciones importantes para el avance de las tecnologías de comunicación en la Tierra.</p>
 
 
 
