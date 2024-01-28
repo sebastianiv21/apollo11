@@ -2,9 +2,12 @@ import random
 import os
 import yaml
 from datetime import datetime
+from typing import List, Dict
+
 from se_supone import generar_reportes
 
-def generar_nombre_archivo(mission_code, num):
+
+def generar_nombre_archivo(mission_code: str, num: int) -> str:
     """
     Genera el nombre de un archivo basado en el código de misión y un número.
 
@@ -22,7 +25,7 @@ def generar_nombre_archivo(mission_code, num):
         raise
 
 
-def generar_estado_dispositivo():
+def generar_estado_dispositivo() -> str:
     """
     Genera un estado aleatorio para un dispositivo.
 
@@ -38,7 +41,7 @@ def generar_estado_dispositivo():
         raise
 
 
-def obtener_nombre_mision(mission_code):
+def obtener_nombre_mision(mission_code: str) -> str:
     """
     Obtiene el nombre de la misión basado en el código.
 
@@ -49,20 +52,15 @@ def obtener_nombre_mision(mission_code):
     str: Nombre de la misión.
     """
     try:
-        misiones = {
-            'ORBONE': 'OrbitOne',
-            'CLNM': 'ColonyMoon',
-            'TMRS': 'VacMars',
-            'GALXONE': 'GalaxyTwo',
-            'UNKN': 'Unknown',
-        }
+        misiones = {'ORBONE': 'OrbitOne', 'CLNM': 'ColonyMoon',
+                    'TMRS': 'VacMars', 'GALXONE': 'GalaxyTwo', 'UNKN': 'Unknown'}
         return misiones.get(mission_code, 'Unknown')
     except Exception as e:
         print(f"Error al obtener el nombre de la misión: {e}")
         raise
 
 
-def generar_tipo_dispositivo():
+def generar_tipo_dispositivo() -> str:
     """
     Genera un tipo aleatorio de dispositivo.
 
@@ -78,7 +76,7 @@ def generar_tipo_dispositivo():
         raise
 
 
-def generar_contenido_archivo(mission_code, num):
+def generar_contenido_archivo(mission_code: str, num: int) -> str:
     """
     Genera el contenido de un archivo YAML con datos aleatorios.
 
@@ -93,26 +91,16 @@ def generar_contenido_archivo(mission_code, num):
         fecha_actual = datetime.now().strftime('%d%m%Y%H%M%S')
 
         if mission_code == 'UNKN':
-            data = {
-                'date': fecha_actual,
-                'mission': obtener_nombre_mision(mission_code),
-                'device_type': generar_tipo_dispositivo(),
-                'device_status': 'unknown',
-                'hash': 'unknown'
-            }
+            data = {'date': fecha_actual, 'mission': obtener_nombre_mision(mission_code),
+                    'device_type': generar_tipo_dispositivo(), 'device_status': 'unknown', 'hash': 'unknown'}
         else:
             device_type = f"Device_{num}"
             device_status = generar_estado_dispositivo()
             hash_value = hash(
                 f"{mission_code}{fecha_actual}{device_type}{device_status}")
 
-            data = {
-                'date': fecha_actual,
-                'mission': obtener_nombre_mision(mission_code),
-                'device_type': generar_tipo_dispositivo(),
-                'device_status': device_status,
-                'hash': hash_value,
-            }
+            data = {'date': fecha_actual, 'mission': obtener_nombre_mision(mission_code),
+                    'device_type': generar_tipo_dispositivo(), 'device_status': device_status, 'hash': hash_value}
 
         return yaml.dump(data, default_flow_style=False)
     except Exception as e:
@@ -120,7 +108,7 @@ def generar_contenido_archivo(mission_code, num):
         raise
 
 
-def generar_archivos_mision(num_archivos, directorio):
+def generar_archivos_mision(num_archivos: int, directorio: str) -> None:
     """
     Genera archivos de misiones con datos aleatorios y los guarda en un directorio.
 
@@ -147,14 +135,13 @@ def generar_archivos_mision(num_archivos, directorio):
         raise
 
 
-
 if __name__ == "__main__":
     """
     Punto de entrada principal del script.
     """
     try:
-        num_archivos = random.randint(20, 20)
+        num_archivos = random.randint(50, 50)
         generar_archivos_mision(num_archivos, 'uuid')
-        generar_reportes('uuid')
+        generar_reportes('uuid', 'devices')
     except Exception as e:
         print(f"Error en la ejecución del programa: {e}")

@@ -1,9 +1,10 @@
 import shutil
 import os
 from config_log import logger
+from typing import Union
 
 
-def mover_contenido(origen, destino):
+def mover_contenido(origen: str, destino: str) -> None:
     """
     Mueve todo el contenido de una carpeta de origen a una carpeta de destino.
 
@@ -28,12 +29,12 @@ def mover_contenido(origen, destino):
 
         # Mover el contenido de la carpeta de origen a la carpeta destino
         for elemento in os.listdir(origen):
-            origen = os.path.join(origen, elemento)
-            destino = os.path.join(destino, elemento)
-            shutil.move(origen, destino)
+            origen_path = os.path.join(origen, elemento)
+            destino_path = os.path.join(destino, elemento)
+            shutil.move(origen_path, destino_path)
 
         # Registrar mensaje de movimiento exitoso
-        logger.info(f"Contenido de {origen} se movio a {destino}")
+        logger.info(f"Contenido de {origen} se movió a {destino}")
 
     except FileNotFoundError:
         # Manejar el caso en que el archivo no se encuentre
@@ -44,11 +45,11 @@ def mover_contenido(origen, destino):
         # Manejar el caso en que la carpeta de destino
         # no sea un directorio válido
         logger.error(
-            f"La ruta de destino {destino} no es válido.")
+            f"La ruta de destino {destino} no es válida.")
 
     except shutil.Error as e:
         # Manejar errores relacionados con la operación de movimiento
-        logger.error(f"No se movio el contenido de {origen} Error:{e}")
+        logger.error(f"No se movió el contenido de {origen} Error:{e}")
 
     except Exception as e:
         # Manejar cualquier otra excepción no prevista
